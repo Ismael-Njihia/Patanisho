@@ -1,0 +1,33 @@
+.allSection{
+    display: flex;
+    height: 100vh;
+    width: 100%;
+}
+.left{
+    height: 100vh;
+    width: 50%;
+    background-color: aqua;
+    border-right: 0.5px gainsboro;
+}
+.left a{
+    text-decoration: none;
+    margin-left: 10%;
+    margin-bottom: 0;
+    
+}
+.right{
+    height: 100vh;
+    width: 50%;
+}
+.loginAndSignup{
+    margin-left: 10%;
+    margin-right: 20px;
+    margin-top: 10%;
+}
+.loginAndSignup button{
+    margin-left: 17%;
+}
+.header h4{
+    margin-bottom: 20px;
+   
+}
