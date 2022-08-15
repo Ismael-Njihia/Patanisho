@@ -19,7 +19,7 @@ document.getElementById("signUp").onclick = function(){
         userId: userId,
 
     }).then(()=>{
-        window.href="../views/upload.html"
+        window.href="../views/questions.html"
     }).catch((error)=>{
         var error1 = message.error;
         alert(error1);

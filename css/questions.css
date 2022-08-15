@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    top: 0;
+}
+body{
+    background-color: aqua;
+}
+.allContent{
+    height: 500px;
+    width: 450px;
+    border: 0.5px solid gainsboro;
+    background-color: gainsboro;
+    border-radius: 10px;
+    margin-left: 32%;
+    margin-top: 5%;
+}
