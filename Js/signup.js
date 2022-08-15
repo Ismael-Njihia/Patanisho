@@ -19,7 +19,7 @@ document.getElementById("signUp").onclick = function(){
         userId: userId,
 
     }).then(()=>{
-        alert("User Created")
+        window.href="../views/upload.html"
     }).catch((error)=>{
         var error1 = message.error;
         alert(error1);

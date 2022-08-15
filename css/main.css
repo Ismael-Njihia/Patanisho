@@ -31,3 +31,8 @@
     margin-bottom: 20px;
    
 }
+.allEverything{
+    height: 100vh;
+    width: 100%;
+    background-color: aqua;
+}
